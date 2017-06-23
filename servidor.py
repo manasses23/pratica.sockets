@@ -1,3 +1,5 @@
+#Calculadora Manasses Fernandes
+
 import socket
 HOST = socket.gethostbyname('localhost')
 PORT = 2000
